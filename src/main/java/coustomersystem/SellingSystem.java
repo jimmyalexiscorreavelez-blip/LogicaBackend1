@@ -94,7 +94,7 @@ public class SellingSystem {
 
                 state = false;
              }else{
-                 System.out.println("No se encontro el producto");
+                 System.out.println("Id: " + id + "no encontrado");
              }
 
    }
